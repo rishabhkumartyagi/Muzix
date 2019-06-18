@@ -7,3 +7,5 @@ Entire code is available in this repository<br/>
 
 App Icon <br/>
 ![alt text](ourico.png)
+<hr>
+<p>![alt text](ourico.png) ![alt text](ourico.png)</p>
