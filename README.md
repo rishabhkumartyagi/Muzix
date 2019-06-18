@@ -9,7 +9,7 @@ App Icon <br/>
 ![alt text](ourico.png)
 <hr>
 <p float="left">
-  <img src="/Screenshot_20190616-221951.jpg" width="250" />
-  <img src="/Screenshot_20190616-221921.jpg" width="250" /> 
-  <img src="/Screenshot_20190616-221906.jpg" width="250" />
+  <img src="/Screenshot_20190616-221921.jpg" width="250" hspace="20"/>
+  <img src="/Screenshot_20190616-221951.jpg" width="250" hspace="20"/>
+  <img src="/Screenshot_20190616-221906.jpg" width="250" hspace="20"/>
 </p>
