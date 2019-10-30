@@ -17,3 +17,5 @@ App Icon <br/>
 <br/>
 The app can also be downloaded from amazon app store<br/>
 <a href="https://www.amazon.com/OpenApps-MusicPlayer/dp/B07SZQW51Z/ref=sr_1_3?keywords=MusicPlayer&qid=1560873682&s=gateway&sr=8-3">https://www.amazon.com/OpenApps-MusicPlayer/dp/B07SZQW51Z/ref=sr_1_3?keywords=MusicPlayer&qid=1560873682&s=gateway&sr=8-3</a>
+Or
+<a href="https://github.com/rishabhkumartyagi/Muzix/raw/master/MusicPlayer.apk">https://github.com/rishabhkumartyagi/Muzix/raw/master/MusicPlayer.apk</a>
